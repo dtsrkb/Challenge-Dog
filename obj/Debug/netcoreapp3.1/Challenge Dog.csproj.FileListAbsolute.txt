@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.exe
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.deps.json
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.runtimeconfig.json
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.runtimeconfig.dev.json
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.dll
+C:\Users\user\Documents\Challenge Dog\bin\Debug\netcoreapp3.1\Challenge Dog.pdb
+C:\Users\user\Documents\Challenge Dog\obj\Debug\netcoreapp3.1\Challenge Dog.csprojAssemblyReference.cache
+C:\Users\user\Documents\Challenge Dog\obj\Debug\netcoreapp3.1\Challenge Dog.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Challenge Dog\obj\Debug\netcoreapp3.1\Challenge Dog.AssemblyInfo.cs
+C:\Users\user\Documents\Challenge Dog\obj\Debug\netcoreapp3.1\Challenge Dog.dll
+C:\Users\user\Documents\Challenge Dog\obj\Debug\netcoreapp3.1\Challenge Dog.pdb
